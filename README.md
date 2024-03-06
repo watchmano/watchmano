@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... MS architecture using kubernetes & skaffold & docker
-- 🌱 I’m currently learning ... Prisma & Apollo Client
-- 👯 I have specialties on ... Node.js (TS, Express), MongoDB, React
+- 🔭 I’m currently working on ... Various React Native Projects
+- 🌱 I’m currently learning ... UX design, webgl, Kafka 
+- 👯 I have specialties on ... Kubernetes Node React Flask Tailwind Mysql Mongo TS 
 - 📫 How to reach me: ... jungyh870918@gmail.com
-- Finally, sorry for my messed up repo... I have been SUUUPer busy studying..., if you need a proof, plz refer to the link below.
-- https://jungyh.tistory.com/
